@@ -19,3 +19,7 @@ It is another bright sunny day in New York city (2015). Mia is woken up by her i
 ## Micro Essay
 The key moment in my story came when Mia’s boss Mr.Jhin told Mia to download the Scheduling Coordination app on her iphone at the Apple Shop. Since in this version of 2015 we don't have an “App Store” that lets you download apps from your house. This demonstrates the old and new version of media by the old being the Nokia phone that had a snake game on it, which wasn’t looked at as an app game, but it really was. And now in this version of 2015 we have the Apple Shop which allows you to get multiple apps/games. The quote that I want to use from week 3 is as follows “that new media remediates old media” because in this case the Apple Shop remediates the old Nokia snake game because it now allows you to get multiple apps/games, which the Nokia was only able to get the one app/game. This quote means that new media can be the newest thing in the world, but it will always take ideas from its predecessor. This means that something new will always be compared and take inspiration from the old. I think the story invites people to really think about how much harder it would be to get apps without the “app store” ever existing. 
 
+#Interactive Timeline
+
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1-f7lx_tAwKqJyLoWPFSBvg2E83IOYGgRJ4z6zLSAPP0&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
